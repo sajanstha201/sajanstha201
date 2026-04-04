@@ -100,10 +100,6 @@ I'm a **Full-Stack AI Developer** from Kathmandu, Nepal, passionate about buildi
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://githubstats.me/api?username=sajanstha201&show_icons=true&theme=tokyonight&hide_border=true" />
-</div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajanstha201&theme=tokyonight&hide_border=true" />
 </div>
