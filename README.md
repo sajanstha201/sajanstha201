@@ -27,11 +27,13 @@ I'm a **Full-Stack AI Developer** from Kathmandu, Nepal, passionate about buildi
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 **Backend**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -100,10 +102,12 @@ I'm a **Full-Stack AI Developer** from Kathmandu, Nepal, passionate about buildi
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sajanstha201&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajanstha201&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
 
-![Sajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajanstha201&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajanstha201&layout=compact&theme=tokyonight&hide_border=true)
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajanstha201&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
