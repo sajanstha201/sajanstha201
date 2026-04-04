@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Sajan Shrestha
+#  Hey, I'm Sajan Shrestha
 
 ### Full-Stack AI Developer · B.Tech CSE @ Manipal Institute of Technology (CGPA: 9.74/10)
 
@@ -76,12 +76,12 @@ I'm a **Full-Stack AI Developer** from Kathmandu, Nepal, passionate about buildi
 
 | Project | Description | Stack |
 |---|---|---|
-| [🏥 Bharat Health](https://github.com/sajanstha201) | Appointment booking, prescription management & doctor-patient interactions | React, Django |
-| [📄 AI Resume Matching Platform](https://github.com/sajanstha201/RESUME-SCREENING) | Matches resumes to job descriptions using BERT & lemmatization, generates relevance ratings | React, Django, BERT |
-| [💰 Bitcoin Price Predictor](https://github.com/sajanstha201/BITCOIN) | Real-time BTC forecasting using LSTM with Yahoo Finance data scraping | Django, React, TensorFlow, Heroku |
-| [🧠 RAHAT-MAHE Health Club](https://github.com/rahatmahe/club) | Responsive mental health resource platform with counsellor listings | React, HTML5, CSS3 |
-| [🔍 OCR / CamScanner Clone](https://github.com/sajanstha201/OCR) | Image-to-PDF/DOC conversion with table extraction | React, JavaScript |
-| [⚙️ Indra-Parse Compiler](https://github.com/sajanstha201/Indra-Parse-Compiler) | Custom language compiler with lexical analysis and syntax parsing | C, Flex, Bison |
+| [Bharat Health](https://github.com/sajanstha201) | Appointment booking, prescription management & doctor-patient interactions | React, Django |
+| [AI Resume Matching Platform](https://github.com/sajanstha201/RESUME-SCREENING) | Matches resumes to job descriptions using BERT & lemmatization, generates relevance ratings | React, Django, BERT |
+| [Bitcoin Price Predictor](https://github.com/sajanstha201/BITCOIN) | Real-time BTC forecasting using LSTM with Yahoo Finance data scraping | Django, React, TensorFlow, Heroku |
+| [RAHAT-MAHE Health Club](https://github.com/rahatmahe/club) | Responsive mental health resource platform with counsellor listings | React, HTML5, CSS3 |
+| [OCR / CamScanner Clone](https://github.com/sajanstha201/OCR) | Image-to-PDF/DOC conversion with table extraction | React, JavaScript |
+| [Indra-Parse Compiler](https://github.com/sajanstha201/Indra-Parse-Compiler) | Custom language compiler with lexical analysis and syntax parsing | C, Flex, Bison |
 
 ---
 
@@ -102,10 +102,9 @@ I'm a **Full-Stack AI Developer** from Kathmandu, Nepal, passionate about buildi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sajanstha201&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajanstha201&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sajanstha201&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajanstha201&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajanstha201&theme=tokyonight&hide_border=true" />
 </div>
