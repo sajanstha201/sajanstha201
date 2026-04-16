@@ -33,10 +33,11 @@ I'm a **Full-Stack AI Developer** from Kathmandu, Nepal, passionate about buildi
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 **Backend**
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
 ![RESTful APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=fastapi&logoColor=white)
 
 **AI / ML**
@@ -69,7 +70,11 @@ I'm a **Full-Stack AI Developer** from Kathmandu, Nepal, passionate about buildi
 - Enhanced the Guthi Sansthan website with responsive design improvements, improving cultural heritage visibility
 - Built a **React-based PDF conversion app** with efficient table extraction and document analysis
 - Created **"Kanchi"** — a Nepali ChatGPT frontend with text and voice capabilities
-
+- 
+### 💻 Software Engineer — IOXET Labs *(Present | Nepal)*
+- Developing intelligent chatbot systems using Retrieval-Augmented Generation (RAG) architecture for Small and Medium Enterprises (SMEs)
+- Designing pipelines for document ingestion, embedding, and semantic retrieval to improve response accuracy and domain relevance
+- Working on scalable backend services and LLM integration to deliver context-aware conversational experiences
 ---
 
 ## 🔨 Featured Projects
