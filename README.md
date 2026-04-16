@@ -73,8 +73,6 @@ I'm a **Full-Stack AI Developer** from Kathmandu, Nepal, passionate about buildi
 - 
 ### 💻 Software Engineer — IOXET Labs *(Present | Nepal)*
 - Developing intelligent chatbot systems using Retrieval-Augmented Generation (RAG) architecture for Small and Medium Enterprises (SMEs)
-- Designing pipelines for document ingestion, embedding, and semantic retrieval to improve response accuracy and domain relevance
-- Working on scalable backend services and LLM integration to deliver context-aware conversational experiences
 ---
 
 ## 🔨 Featured Projects
